@@ -1,0 +1,4 @@
+#!/bin/bash
+echo -e " hi , tolong ketik sesuatu: \c"
+read kata
+echo " kata yang kamu ketik adalah: $kata"

@@ -1,0 +1,4 @@
+<?php
+$CONFIG = array (
+  'instanceid' => 'occfa832f398',
+);
